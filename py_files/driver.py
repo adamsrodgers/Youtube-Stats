@@ -7,14 +7,14 @@ print('Welcome to the youtube Analyzer')
 print('Written by: Tinsae Dejene, Joel Salguero, and Raekwon Adams-Rodgers')
 time.sleep(2)
 
-print('Here you will choose a youtube channel of the list provided down below and choose what data you would like to get such as:')
+print('Here you will choose a youtube channel of the list provided down below and look at some statistics from the channel.')
 time.sleep(2)
 print('Total View Count, Total Suscriber Count, The Amount of Videos on The Channel. We also give video data for the top 10 most viewed videos of each channel. Here are\nyour choices below: ')
 print(" 1.lockpickinglawyer\n",  "2.john stossel\n", "3.economics explained\n", "4.louis rossman\n", "5.casually explained\n", "6.economics explained 2\n", "7.kirksicle\n", "8.reasontv\n", "9.doug demuro")
 
 choice = input('Choose a youtube channel name to analyze: ')
 while(choice != 'Exit'):
-    
+
     data = None
     with open(choice.replace(" ", "_").lower() + '.json', 'r') as f:
         data = json.loads(f.read())
@@ -22,10 +22,6 @@ while(choice != 'Exit'):
     channel_id, stats = data.popitem()
     channel_stats = stats['channel_statistics']
     video_stats = stats['video_data']
-
-
-
-
     print('Here are the channel stats for' + choice + ': ')
 
 
@@ -37,7 +33,7 @@ while(choice != 'Exit'):
 
     print('\t\tTop 10 most viewed videos data')
 
-    sorted_vids = sorted(video_stats.items(), key=lambda item: int(item[1]['viewCount']), reverse = True)
+    sorted_vids = sorted(video_stats.items(), key=lambda item: int(item[1]['viewCount']), reverse=True)
     stats = []
     for vid in sorted_vids:
         video_id = vid[0]
@@ -57,9 +53,3 @@ while(choice != 'Exit'):
     choice = input('\n\nChoose a youtube channel to analyze or type exit to exit program:')
     if choice == 'exit':
         quit()
-
-
-
-
-#df_nested_list = pd.json_normalize(data, record_path = ['channel_statistics'])
-#print(df_nested_list)
