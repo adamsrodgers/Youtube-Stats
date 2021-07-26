@@ -14,7 +14,7 @@ from tqdm import tqdm
 
 #response = request.execute()
 
-#print(response)
+
 
 
 
