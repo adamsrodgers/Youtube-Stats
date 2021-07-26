@@ -1,0 +1,2531 @@
+{
+    "UCBJycsmduvYEL83R_U4JriQ": {
+        "channel_statistics": {
+            "viewCount": "2589839045",
+            "subscriberCount": "14300000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1362"
+        },
+        "video_data": {
+            "DDpXdljhstg": {
+                "publishedAt": "2021-07-07T22:09:15Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "iPadOS 15 Review: Dropped Expectations!",
+                "description": "iPadOS 15 is coming to an iPad near you. Not just the iPad Pro. Any iPad.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DDpXdljhstg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DDpXdljhstg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DDpXdljhstg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DDpXdljhstg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DDpXdljhstg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "iPadOS",
+                    "iPadOS 15",
+                    "iOS 15",
+                    "iOS iPad",
+                    "iPad Pro",
+                    "MKBHD"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "iPadOS 15 Review: Dropped Expectations!",
+                    "description": "iPadOS 15 is coming to an iPad near you. Not just the iPad Pro. Any iPad.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "1600723",
+                "likeCount": "74046",
+                "dislikeCount": "992",
+                "favoriteCount": "0",
+                "commentCount": "4737",
+                "duration": "PT12M23S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "O1sZcX-BBSA": {
+                "publishedAt": "2021-07-02T16:16:24Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "iOS 15 Hands-On: Top 5 New Features!",
+                "description": "The best iOS 15 Features, coming to an iPhone near you!\nThe first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/marquesbrownlee06211\n\niOS 15 wallpapers: https://9to5mac.com/2021/06/07/download-the-new-ios-15-wallpapers-for-your-devices-right-here/\n\n0:00 Intro\n1:02 Redesigned apps\n2:56 Facetime features\n5:31 Live Text\n7:07 Notifications\n8:13 Focus Modes\n10:15 Other Stuff + Conclusions\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O1sZcX-BBSA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O1sZcX-BBSA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O1sZcX-BBSA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/O1sZcX-BBSA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/O1sZcX-BBSA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "iOS 15",
+                    "iOS15",
+                    "iOS 15 features",
+                    "iOS update",
+                    "iOS",
+                    "iOS 15 download",
+                    "MKBHD",
+                    "features",
+                    "best features",
+                    "iPhone 12s",
+                    "iPhone 13",
+                    "best iPhone features",
+                    "iOS features",
+                    "beta",
+                    "public beta",
+                    "iOS beta",
+                    "iOS 15 beta download"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "iOS 15 Hands-On: Top 5 New Features!",
+                    "description": "The best iOS 15 Features, coming to an iPhone near you!\nThe first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/marquesbrownlee06211\n\niOS 15 wallpapers: https://9to5mac.com/2021/06/07/download-the-new-ios-15-wallpapers-for-your-devices-right-here/\n\n0:00 Intro\n1:02 Redesigned apps\n2:56 Facetime features\n5:31 Live Text\n7:07 Notifications\n8:13 Focus Modes\n10:15 Other Stuff + Conclusions\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "4455652",
+                "likeCount": "167857",
+                "dislikeCount": "2531",
+                "favoriteCount": "0",
+                "commentCount": "7844",
+                "duration": "PT12M26S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "CghqH21A2Ew": {
+                "publishedAt": "2021-07-01T14:00:56Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Sony Xperia 1 III: The Ultimate Enthusiast Phone!",
+                "description": "Sony's newest phone is both the most impressive and the most niche phone they've ever made.\n\nWhy people don't use Sony phones: https://youtu.be/j7QwJ-M_GAI\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Sony for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CghqH21A2Ew/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CghqH21A2Ew/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CghqH21A2Ew/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CghqH21A2Ew/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CghqH21A2Ew/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "Sony phone",
+                    "enthusiast phone",
+                    "Sony smartphone",
+                    "Sony Xperia 1",
+                    "Xperia",
+                    "Xperia 1",
+                    "Sony",
+                    "mkbhd",
+                    "MKBHD",
+                    "Xperia 1 iii",
+                    "Xperia 1 mark 3",
+                    "Xperia 1 mark iii",
+                    "Sony phone review",
+                    "Sony Xperia 1 iii"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Sony Xperia 1 III: The Ultimate Enthusiast Phone!",
+                    "description": "Sony's newest phone is both the most impressive and the most niche phone they've ever made.\n\nWhy people don't use Sony phones: https://youtu.be/j7QwJ-M_GAI\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Sony for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "2234510",
+                "likeCount": "104266",
+                "dislikeCount": "2193",
+                "favoriteCount": "0",
+                "commentCount": "9311",
+                "duration": "PT13M22S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "U3JprndeVYU": {
+                "publishedAt": "2021-06-30T17:01:49Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Why Everything is an Ultrabook!",
+                "description": "The world of laptops is sick: If it's not a gaming laptop, the other features matter even more!\nThe ultrabook definition: https://en.wikipedia.org/wiki/Ultrabook\nLenovo Thinkpad X1 Nano #sponsor: https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x1/ThinkPad-X1-Nano/p/22TP2X1X1N1\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds http://smarturl.it/jordynedmonds \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U3JprndeVYU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U3JprndeVYU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U3JprndeVYU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/U3JprndeVYU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/U3JprndeVYU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "ultrabook",
+                    "ultrabooks",
+                    "MKBHD",
+                    "Lenovo X1 Nano",
+                    "X1 Nano",
+                    "Thinkpad",
+                    "Thinkpad X1 Nano"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Why Everything is an Ultrabook!",
+                    "description": "The world of laptops is sick: If it's not a gaming laptop, the other features matter even more!\nThe ultrabook definition: https://en.wikipedia.org/wiki/Ultrabook\nLenovo Thinkpad X1 Nano #sponsor: https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x1/ThinkPad-X1-Nano/p/22TP2X1X1N1\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds http://smarturl.it/jordynedmonds \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "1354350",
+                "likeCount": "66712",
+                "dislikeCount": "9477",
+                "favoriteCount": "0",
+                "commentCount": "4738",
+                "duration": "PT9M4S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "VaSstf9VJGQ": {
+                "publishedAt": "2021-06-24T21:24:26Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Windows 11 Reactions: It Runs Android Apps! (Kinda)",
+                "description": "Windows 11 is official and it is... very glassy.\n\nJoanna Stern's WSJ piece: https://www.wsj.com/articles/microsoft-windows-11-guide-11624549583?mod=latest_headlines&tesla=y\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Windows 11 Startup Sound\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VaSstf9VJGQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VaSstf9VJGQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VaSstf9VJGQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VaSstf9VJGQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VaSstf9VJGQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "Windows 11",
+                    "Windows 11 reaction",
+                    "download",
+                    "MKBHD",
+                    "Android apps",
+                    "Windows 11 apps",
+                    "Windows 11 beta",
+                    "Windows 11 upgrade",
+                    "beta",
+                    "upgrade",
+                    "Windows 11 vs"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Windows 11 Reactions: It Runs Android Apps! (Kinda)",
+                    "description": "Windows 11 is official and it is... very glassy.\n\nJoanna Stern's WSJ piece: https://www.wsj.com/articles/microsoft-windows-11-guide-11624549583?mod=latest_headlines&tesla=y\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Windows 11 Startup Sound\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "4400248",
+                "likeCount": "211175",
+                "dislikeCount": "2981",
+                "favoriteCount": "0",
+                "commentCount": "15884",
+                "duration": "PT9M8S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "ILHEYblJ7uM": {
+                "publishedAt": "2021-06-17T22:32:44Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Forgot About Beats by Dre?",
+                "description": "Beats Studio Buds are their most interesting headphones yet...\nThe Truth about Beats by Dre: https://youtu.be/ZsxQxS0AdBY\ndbrand Damascus skin: https://dbrand.com/shop/damascus\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds  http://smarturl.it/jordynedmonds\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nHeadphones Provided by Beats for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ILHEYblJ7uM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ILHEYblJ7uM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ILHEYblJ7uM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ILHEYblJ7uM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ILHEYblJ7uM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "Beats by Dre",
+                    "what happened to beats by Dre",
+                    "Beats",
+                    "Beats headphones",
+                    "Beats by Dre headphones",
+                    "MKBHD",
+                    "Beats by Dre vs",
+                    "Beats vs AirPods",
+                    "Studio Buds",
+                    "Beats Studio Buds",
+                    "Beats earbuds",
+                    "Beats by Dre earbuds"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Forgot About Beats by Dre?",
+                    "description": "Beats Studio Buds are their most interesting headphones yet...\nThe Truth about Beats by Dre: https://youtu.be/ZsxQxS0AdBY\ndbrand Damascus skin: https://dbrand.com/shop/damascus\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds  http://smarturl.it/jordynedmonds\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nHeadphones Provided by Beats for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "3297545",
+                "likeCount": "136051",
+                "dislikeCount": "2178",
+                "favoriteCount": "0",
+                "commentCount": "7539",
+                "duration": "PT13M34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "FITTkh-kf6g": {
+                "publishedAt": "2021-06-13T13:02:42Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Top 5 Android 12 Features: Huge Redesign!",
+                "description": "Android 12 Beta on my Pixel 5 is a pretty wild redesign.\nExpressVPN: https://expressvpn.com/MKBHD\nWaveform Podcast: http://youtube.com/Waveform\nWaveform clips: http://youtube.com/WaveformClips\n\nSundar Pichai Interview: https://youtu.be/n2RNcPRtAiY\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FITTkh-kf6g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FITTkh-kf6g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FITTkh-kf6g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FITTkh-kf6g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FITTkh-kf6g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "Android 12",
+                    "Material you",
+                    "Android 12 review",
+                    "Android 12 download",
+                    "Android 12 features",
+                    "Android 12 vs",
+                    "MKBHD",
+                    "Android 12 vs iOS 15",
+                    "iOS 15",
+                    "iOS 15 vs",
+                    "Android 12 clock",
+                    "widgets",
+                    "lockscreen",
+                    "animations",
+                    "quick settings",
+                    "update",
+                    "download",
+                    "beta",
+                    "Pixel 6"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Top 5 Android 12 Features: Huge Redesign!",
+                    "description": "Android 12 Beta on my Pixel 5 is a pretty wild redesign.\nExpressVPN: https://expressvpn.com/MKBHD\nWaveform Podcast: http://youtube.com/Waveform\nWaveform clips: http://youtube.com/WaveformClips\n\nSundar Pichai Interview: https://youtu.be/n2RNcPRtAiY\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "2699206",
+                "likeCount": "137143",
+                "dislikeCount": "2712",
+                "favoriteCount": "0",
+                "commentCount": "10283",
+                "duration": "PT12M17S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "wGKb3oUo8go": {
+                "publishedAt": "2021-06-08T20:06:34Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Why iPhone's Features are Always \"Late\"",
+                "description": "Thoughts on iOS 15 Features and some WWDC reactions!\n\nDiscord: http://discord.gg/MKBHD (5PM Eastern Live Event!)\n\nDieter's video: https://youtu.be/B-Nou-xhWGI\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wGKb3oUo8go/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wGKb3oUo8go/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wGKb3oUo8go/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wGKb3oUo8go/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wGKb3oUo8go/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "iOS 15",
+                    "iOS 15 vs",
+                    "iOS vs",
+                    "iOS 15 features",
+                    "WWDC 2021",
+                    "MKBHD",
+                    "WWDC",
+                    "iPhone features",
+                    "iPhone 13 features",
+                    "iPhone features vs Android",
+                    "vs Android",
+                    "iPhone features vs",
+                    "iOS features vs",
+                    "iOS vs Android"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Why iPhone's Features are Always \"Late\"",
+                    "description": "Thoughts on iOS 15 Features and some WWDC reactions!\n\nDiscord: http://discord.gg/MKBHD (5PM Eastern Live Event!)\n\nDieter's video: https://youtu.be/B-Nou-xhWGI\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "3671505",
+                "likeCount": "166556",
+                "dislikeCount": "3395",
+                "favoriteCount": "0",
+                "commentCount": "13160",
+                "duration": "PT11M44S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "ZS-LwWzlKdc": {
+                "publishedAt": "2021-06-02T22:02:56Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "When Smartphones Copy Each Other!",
+                "description": "It's okay to copy... as long as you copy the good stuff. Then we all win.\n\nCuriosityStream: http://curiositystream.com/MKBHD\n\nA ZTE Axon 30 Ultra review: https://www.theverge.com/22458629/zte-axon-30-ultra-review-screen-price-specs\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds http://smarturl.it/jordynedmonds \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nSmartphone Provided by ZTE for video.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZS-LwWzlKdc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZS-LwWzlKdc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZS-LwWzlKdc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZS-LwWzlKdc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZS-LwWzlKdc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "smartphone copy",
+                    "clone",
+                    "ZTE Axon 30 Ultra",
+                    "Axon 30",
+                    "ZTE Axon",
+                    "Galaxy Note 20",
+                    "Note 20 Ultra",
+                    "MKBHD",
+                    "ZTE phone",
+                    "ZTE phone vs"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "When Smartphones Copy Each Other!",
+                    "description": "It's okay to copy... as long as you copy the good stuff. Then we all win.\n\nCuriosityStream: http://curiositystream.com/MKBHD\n\nA ZTE Axon 30 Ultra review: https://www.theverge.com/22458629/zte-axon-30-ultra-review-screen-price-specs\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds http://smarturl.it/jordynedmonds \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nSmartphone Provided by ZTE for video.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "1487453",
+                "likeCount": "71412",
+                "dislikeCount": "1539",
+                "favoriteCount": "0",
+                "commentCount": "3699",
+                "duration": "PT10M12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "J2npVg9ONFo": {
+                "publishedAt": "2021-05-28T03:07:57Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Ford F150 Lightning Impressions: Better Than I Thought!",
+                "description": "Exclusive hands-on with the electric F150 Lightning pickup truck that Ford just unveiled! This or Cybertruck?\n\nCybertruck First Impressions: https://youtu.be/oTZ84U-K_5k\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds http://smarturl.it/jordynedmonds \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J2npVg9ONFo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J2npVg9ONFo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J2npVg9ONFo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/J2npVg9ONFo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/J2npVg9ONFo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "F150 Lightning",
+                    "Ford F150 Lightning",
+                    "electric F150",
+                    "electric pickup",
+                    "electric pickup truck",
+                    "MKBHD",
+                    "first drive",
+                    "review",
+                    "electric F150 review",
+                    "F150 lightning vs",
+                    "F150 lightning",
+                    "Cybertruck vs",
+                    "F150 Lightning vs Cybertruck",
+                    "range",
+                    "battery backup",
+                    "F150",
+                    "Ford F150",
+                    "Ford lightning",
+                    "Raptor",
+                    "Lightning vs Raptor",
+                    "frunk",
+                    "front trunk",
+                    "power frunk",
+                    "mega frunk",
+                    "mega power frunk"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Ford F150 Lightning Impressions: Better Than I Thought!",
+                    "description": "Exclusive hands-on with the electric F150 Lightning pickup truck that Ford just unveiled! This or Cybertruck?\n\nCybertruck First Impressions: https://youtu.be/oTZ84U-K_5k\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds http://smarturl.it/jordynedmonds \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "5842266",
+                "likeCount": "257080",
+                "dislikeCount": "5231",
+                "favoriteCount": "0",
+                "commentCount": "28607",
+                "duration": "PT13M35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "n2RNcPRtAiY": {
+                "publishedAt": "2021-05-21T20:26:03Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Talking Tech and AI with Google CEO Sundar Pichai!",
+                "description": "Talking tech and AI on the heels of Google I/O. Also a daily driver phone reveal from Google's CEO. Shoutout to Sundar!\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n2RNcPRtAiY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n2RNcPRtAiY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n2RNcPRtAiY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/n2RNcPRtAiY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/n2RNcPRtAiY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "Sundar Pichai",
+                    "Sundar",
+                    "Google CEO",
+                    "Alphabet CEO",
+                    "Google",
+                    "Alphabet",
+                    "MKBHD",
+                    "Talking tech",
+                    "Talking tech with Sundar Pichai",
+                    "Google IO",
+                    "Google 2021"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Talking Tech and AI with Google CEO Sundar Pichai!",
+                    "description": "Talking tech and AI on the heels of Google I/O. Also a daily driver phone reveal from Google's CEO. Shoutout to Sundar!\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "2672238",
+                "likeCount": "162379",
+                "dislikeCount": "2296",
+                "favoriteCount": "0",
+                "commentCount": "9705",
+                "duration": "PT14M21S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "eY9dXcjkVx8": {
+                "publishedAt": "2021-05-19T13:01:25Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "iPad Pro M1 Review: The Ultimate Spec Bump!",
+                "description": "The M1 iPad Pro is unreal fast... at all the same stuff. Bring on iOS15!\n\niPad Pro skins: http://dbrand.com/ipad\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nComputer provided by Apple for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eY9dXcjkVx8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eY9dXcjkVx8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eY9dXcjkVx8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eY9dXcjkVx8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eY9dXcjkVx8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "M1 iPad",
+                    "iPad Pro",
+                    "M1 iPad Pro",
+                    "iPad Pro review",
+                    "M1 iPad review",
+                    "M1 iPad vs",
+                    "MKBHD",
+                    "iOS 15",
+                    "iPadOS",
+                    "iPadOS 15",
+                    "iPad widgets",
+                    "benchmarks",
+                    "M1 iPad benchmarks"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "iPad Pro M1 Review: The Ultimate Spec Bump!",
+                    "description": "The M1 iPad Pro is unreal fast... at all the same stuff. Bring on iOS15!\n\niPad Pro skins: http://dbrand.com/ipad\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nComputer provided by Apple for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "4350418",
+                "likeCount": "184556",
+                "dislikeCount": "1975",
+                "favoriteCount": "0",
+                "commentCount": "13099",
+                "duration": "PT16M17S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "vSAa_ls9grQ": {
+                "publishedAt": "2021-05-18T13:00:57Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "M1 iMac Review: Ultra Thin Design Choice!",
+                "description": "Apple's M1 iMac is crazy thin. It's a polarizing design, but a great computer!\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nComputer provided by Apple for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vSAa_ls9grQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vSAa_ls9grQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vSAa_ls9grQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vSAa_ls9grQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vSAa_ls9grQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "M1 iMac",
+                    "iMac",
+                    "iMac review",
+                    "Apple iMac",
+                    "2021 iMac",
+                    "new iMac",
+                    "iMac unboxing",
+                    "MKBHD",
+                    "Apple silicon",
+                    "24",
+                    "iMac",
+                    "24 iMac",
+                    "iMac 24"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "M1 iMac Review: Ultra Thin Design Choice!",
+                    "description": "Apple's M1 iMac is crazy thin. It's a polarizing design, but a great computer!\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nComputer provided by Apple for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "4292684",
+                "likeCount": "174693",
+                "dislikeCount": "3305",
+                "favoriteCount": "0",
+                "commentCount": "12746",
+                "duration": "PT13M22S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "RTbrXiIzUt4": {
+                "publishedAt": "2021-05-08T01:03:28Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "What Is Right To Repair?",
+                "description": "Do you really own what you buy? And why is it so damn hard to repair your phone?\n\nThe new Waveform channel: http://youtube.com/WAVEFORM\n\n0:00 Right To Repair Intro\n3:27 They Want Control\n8:08 Anti-Right To Repair\n12:45 What's Happening in Tech\n18:03 Conclusion\n\nThe Right to Repair Movement: https://www.repair.org/stand-up\nFarmers hacking their John Deere tractors: https://youtu.be/EPYy_g8NzmI\nLouis Rossmann: https://youtube.com/user/rossmanngroup\nSimone Giertz Truckla: https://youtu.be/jKv_N0IDS2A\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds http://smarturl.it/jordynedmonds\u200b\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RTbrXiIzUt4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RTbrXiIzUt4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RTbrXiIzUt4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RTbrXiIzUt4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RTbrXiIzUt4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "Right To Repair",
+                    "right to repair",
+                    "MKBHD",
+                    "right to repair movement",
+                    "Apple",
+                    "Apple vs",
+                    "repairing iPhone",
+                    "iPhone 12",
+                    "Tesla right to repair",
+                    "Apple right to repair"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "What Is Right To Repair?",
+                    "description": "Do you really own what you buy? And why is it so damn hard to repair your phone?\n\nThe new Waveform channel: http://youtube.com/WAVEFORM\n\n0:00 Right To Repair Intro\n3:27 They Want Control\n8:08 Anti-Right To Repair\n12:45 What's Happening in Tech\n18:03 Conclusion\n\nThe Right to Repair Movement: https://www.repair.org/stand-up\nFarmers hacking their John Deere tractors: https://youtu.be/EPYy_g8NzmI\nLouis Rossmann: https://youtube.com/user/rossmanngroup\nSimone Giertz Truckla: https://youtu.be/jKv_N0IDS2A\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds http://smarturl.it/jordynedmonds\u200b\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "2944918",
+                "likeCount": "219990",
+                "dislikeCount": "2035",
+                "favoriteCount": "0",
+                "commentCount": "13192",
+                "duration": "PT20M16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "07mIwEa3xbQ": {
+                "publishedAt": "2021-04-26T23:20:48Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "OnePlus Watch Review: They Settled!",
+                "description": "OnePlus Watch vs the smartwatch formula\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds http://smarturl.it/jordynedmonds\u200b\u200b\u200b\u200b \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nWatch provided by OnePlus for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/07mIwEa3xbQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/07mIwEa3xbQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/07mIwEa3xbQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/07mIwEa3xbQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/07mIwEa3xbQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "OnePlus Watch",
+                    "OnePlus",
+                    "watch",
+                    "review",
+                    "onelplus watch review",
+                    "MKBHD",
+                    "never settle",
+                    "update",
+                    "software update",
+                    "onelpus app",
+                    "OnePlus Health",
+                    "google fit",
+                    "OnePlus Watch vs"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "OnePlus Watch Review: They Settled!",
+                    "description": "OnePlus Watch vs the smartwatch formula\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds http://smarturl.it/jordynedmonds\u200b\u200b\u200b\u200b \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nWatch provided by OnePlus for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "2554819",
+                "likeCount": "114549",
+                "dislikeCount": "1691",
+                "favoriteCount": "0",
+                "commentCount": "8196",
+                "duration": "PT11M5S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "t7jbT1YhyQU": {
+                "publishedAt": "2021-04-23T13:00:59Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "The New Purple iPhone 12!",
+                "description": "Unboxing a brand new iPhone - the purple one this time. They've really done it.\n\nTry Luminar AI\u00a0https://l.skylum.com/MKBHD\nUse MKBHD at checkout to save $15\n\nThe Truth about Colored Phones: https://youtu.be/fJ_PNOXycwg\n\nPurple dbrand skin: https://dbrand.com/purple\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds http://smarturl.it/jordynedmonds\u200b\u200b\u200b \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Apple for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t7jbT1YhyQU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t7jbT1YhyQU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t7jbT1YhyQU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/t7jbT1YhyQU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/t7jbT1YhyQU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "purple iPhone",
+                    "iPhone 12",
+                    "purple iPhone 12 unboxing",
+                    "mkbhd",
+                    "MKBHD",
+                    "Purple iPhone 12",
+                    "purple iPhone 12 mini",
+                    "iPhone 12 review",
+                    "purple iPhone 12 review",
+                    "unboxing",
+                    "purple iPhone unboxing"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "The New Purple iPhone 12!",
+                    "description": "Unboxing a brand new iPhone - the purple one this time. They've really done it.\n\nTry Luminar AI\u00a0https://l.skylum.com/MKBHD\nUse MKBHD at checkout to save $15\n\nThe Truth about Colored Phones: https://youtu.be/fJ_PNOXycwg\n\nPurple dbrand skin: https://dbrand.com/purple\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds http://smarturl.it/jordynedmonds\u200b\u200b\u200b \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Apple for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "2838316",
+                "likeCount": "135900",
+                "dislikeCount": "3666",
+                "favoriteCount": "0",
+                "commentCount": "8174",
+                "duration": "PT7M37S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "ehv3zQAa9zM": {
+                "publishedAt": "2021-04-22T13:00:44Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Apple AirTags Unboxing & Demo!",
+                "description": "AirTags and the new \"Precision Finding\" in action.\n\ndbrand AirTags: https://dbrand.com/airtag\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nAirTags provided by Apple for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ehv3zQAa9zM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ehv3zQAa9zM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ehv3zQAa9zM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ehv3zQAa9zM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ehv3zQAa9zM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "AirTags",
+                    "Apple AirTags",
+                    "AirTags unboxing",
+                    "AirTags demo",
+                    "Find My",
+                    "Find My AirTags",
+                    "Airtag",
+                    "MKBHD",
+                    "Find my AirTags",
+                    "precision finding",
+                    "airtag keychain",
+                    "keychain",
+                    "luggage tag"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Apple AirTags Unboxing & Demo!",
+                    "description": "AirTags and the new \"Precision Finding\" in action.\n\ndbrand AirTags: https://dbrand.com/airtag\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nAirTags provided by Apple for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "7462245",
+                "likeCount": "259128",
+                "dislikeCount": "4218",
+                "favoriteCount": "0",
+                "commentCount": "22054",
+                "duration": "PT11M26S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "vInUoPtg8m0": {
+                "publishedAt": "2021-04-21T01:12:28Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Colored iMacs? Let's Talk About Apple's 4/20 Event!",
+                "description": "Three major announcements at today's Apple event: Airtags, iMacs and iPad Pros!\n\nGo to https://expressvpn.com/MKBHD and find out how you can get 3 months of ExpressVPN free!\n\n0:00 Intro\n1:11 AirTags\n4:24 Colorful M1 iMacs\n10:22 M1 iPad Pro\n14:19 ExpressVPN\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds http://smarturl.it/jordynedmonds\u200b\u200b \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vInUoPtg8m0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vInUoPtg8m0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vInUoPtg8m0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vInUoPtg8m0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vInUoPtg8m0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "Airtags",
+                    "AirTag",
+                    "Apple AirTag",
+                    "purple iPhone",
+                    "apple event",
+                    "M1 iMac",
+                    "M1 iPad",
+                    "M1 iPad Pro",
+                    "mkbhd",
+                    "Apple April event",
+                    "420 event"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Colored iMacs? Let's Talk About Apple's 4/20 Event!",
+                    "description": "Three major announcements at today's Apple event: Airtags, iMacs and iPad Pros!\n\nGo to https://expressvpn.com/MKBHD and find out how you can get 3 months of ExpressVPN free!\n\n0:00 Intro\n1:11 AirTags\n4:24 Colorful M1 iMacs\n10:22 M1 iPad Pro\n14:19 ExpressVPN\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds http://smarturl.it/jordynedmonds\u200b\u200b \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "4820428",
+                "likeCount": "183623",
+                "dislikeCount": "3415",
+                "favoriteCount": "0",
+                "commentCount": "23909",
+                "duration": "PT16M12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "ccnlAVDXd7k": {
+                "publishedAt": "2021-04-17T13:00:30Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Retro Tech: Smart Homes",
+                "description": "In this episode I\u2019m looking at smart home technology. From remote controls to the Clapper, we\u2019ll find out where it began and where it\u2019s headed. I\u2019m also joined by none other than Bill Gates about how climate change and optimizing energy usage play a part in revolutionizing our homes.\n\nWatch Retro Tech free with ads or get YouTube Premium to watch ad-free with exclusive bonus footage. Learn more at: https://support.google.com/youtube/answer/6358146 Check out YouTube Premium at: https://www.youtube.com/premium/originals See if Premium is available in your country at: https://support.google.com/youtube/answer/6307365",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ccnlAVDXd7k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ccnlAVDXd7k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ccnlAVDXd7k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ccnlAVDXd7k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ccnlAVDXd7k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "Retro tech",
+                    "tech",
+                    "technology",
+                    "smart homes",
+                    "robots",
+                    "science",
+                    "science-fiction",
+                    "hyperconnectivity",
+                    "teleportation",
+                    "flying cars",
+                    "wearable tech",
+                    "marques brownlee"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Retro Tech: Smart Homes",
+                    "description": "In this episode I\u2019m looking at smart home technology. From remote controls to the Clapper, we\u2019ll find out where it began and where it\u2019s headed. I\u2019m also joined by none other than Bill Gates about how climate change and optimizing energy usage play a part in revolutionizing our homes.\n\nWatch Retro Tech free with ads or get YouTube Premium to watch ad-free with exclusive bonus footage. Learn more at: https://support.google.com/youtube/answer/6358146 Check out YouTube Premium at: https://www.youtube.com/premium/originals See if Premium is available in your country at: https://support.google.com/youtube/answer/6307365"
+                },
+                "defaultAudioLanguage": "en",
+                "viewCount": "1008025",
+                "likeCount": "42301",
+                "dislikeCount": "868",
+                "favoriteCount": "0",
+                "commentCount": "2801",
+                "duration": "PT20M16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "MhKiMPiZOdE": {
+                "publishedAt": "2021-04-16T13:00:07Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Retro Tech: Hyperconnectivity",
+                "description": "How did we all get so hyperconnected? I\u2019m taking a look at where it all started \u2013 the simple phone \u2013 and how things developed. How we went from answering machines to AOL messenger to Facetime. But I\u2019m also taking a look at where it\u2019s all going; and I\u2019m looking at tech that will one day allow us to communicate telepathically.\n\nWatch Retro Tech free with ads or get YouTube Premium to watch ad-free with exclusive bonus footage. Learn more at: https://support.google.com/youtube/answer/6358146 Check out YouTube Premium at: https://www.youtube.com/premium/originals See if Premium is available in your country at: https://support.google.com/youtube/answer/6307365",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MhKiMPiZOdE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MhKiMPiZOdE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MhKiMPiZOdE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MhKiMPiZOdE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MhKiMPiZOdE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "Retro tech",
+                    "tech",
+                    "technology",
+                    "smart homes",
+                    "robots",
+                    "science",
+                    "science-fiction",
+                    "hyperconnectivity",
+                    "teleportation",
+                    "flying cars",
+                    "wearable tech",
+                    "marques brownlee"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Retro Tech: Hyperconnectivity",
+                    "description": "How did we all get so hyperconnected? I\u2019m taking a look at where it all started \u2013 the simple phone \u2013 and how things developed. How we went from answering machines to AOL messenger to Facetime. But I\u2019m also taking a look at where it\u2019s all going; and I\u2019m looking at tech that will one day allow us to communicate telepathically.\n\nWatch Retro Tech free with ads or get YouTube Premium to watch ad-free with exclusive bonus footage. Learn more at: https://support.google.com/youtube/answer/6358146 Check out YouTube Premium at: https://www.youtube.com/premium/originals See if Premium is available in your country at: https://support.google.com/youtube/answer/6307365"
+                },
+                "defaultAudioLanguage": "en",
+                "viewCount": "658155",
+                "likeCount": "30601",
+                "dislikeCount": "410",
+                "favoriteCount": "0",
+                "commentCount": "2144",
+                "duration": "PT19M47S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "nLeScEdf550": {
+                "publishedAt": "2021-04-15T13:00:16Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Retro Tech: Robots",
+                "description": "I\u2019m taking a look at the tech predictions of the past that we thought would be our future \u2013 and in particular robots. I cast an eye back to the toy robots of the 60s, 70s, and 80s and some of the movies that spawned them. And along the way I talk to UrAvgConsumer and Chris Gethard. \n\nWatch Retro Tech free with ads or get YouTube Premium to watch ad-free with exclusive bonus footage. Learn more at: https://support.google.com/youtube/answer/6358146 Check out YouTube Premium at: https://www.youtube.com/premium/originals See if Premium is available in your country at: https://support.google.com/youtube/answer/6307365",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nLeScEdf550/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nLeScEdf550/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nLeScEdf550/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nLeScEdf550/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nLeScEdf550/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "Retro tech",
+                    "tech",
+                    "technology",
+                    "smart homes",
+                    "robots",
+                    "science",
+                    "science-fiction",
+                    "hyperconnectivity",
+                    "teleportation",
+                    "flying cars",
+                    "wearable tech",
+                    "marques brownlee"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Retro Tech: Robots",
+                    "description": "I\u2019m taking a look at the tech predictions of the past that we thought would be our future \u2013 and in particular robots. I cast an eye back to the toy robots of the 60s, 70s, and 80s and some of the movies that spawned them. And along the way I talk to UrAvgConsumer and Chris Gethard. \n\nWatch Retro Tech free with ads or get YouTube Premium to watch ad-free with exclusive bonus footage. Learn more at: https://support.google.com/youtube/answer/6358146 Check out YouTube Premium at: https://www.youtube.com/premium/originals See if Premium is available in your country at: https://support.google.com/youtube/answer/6307365"
+                },
+                "defaultAudioLanguage": "en",
+                "viewCount": "715901",
+                "likeCount": "33376",
+                "dislikeCount": "569",
+                "favoriteCount": "0",
+                "commentCount": "1975",
+                "duration": "PT21M42S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "tEmLMCPK8OE": {
+                "publishedAt": "2021-04-14T13:00:18Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Retro Tech: Teleportation",
+                "description": "For decades people have dreamed of a technology that would allow them to instantly be somewhere else. I\u2019m taking a deep dive into teleportation tech and the next best thing \u2013 virtual reality with Jake Baldino and Neil DeGrasse Tyson.\n\nWatch Retro Tech free with ads or get YouTube Premium to watch ad-free with exclusive bonus footage. Learn more at: https://support.google.com/youtube/answer/6358146 Check out YouTube Premium at: https://www.youtube.com/premium/originals See if Premium is available in your country at: https://support.google.com/youtube/answer/6307365",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tEmLMCPK8OE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tEmLMCPK8OE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tEmLMCPK8OE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tEmLMCPK8OE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tEmLMCPK8OE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "Retro tech",
+                    "tech",
+                    "technology",
+                    "smart homes",
+                    "robots",
+                    "science",
+                    "science-fiction",
+                    "hyperconnectivity",
+                    "teleportation",
+                    "flying cars",
+                    "wearable tech",
+                    "marques brownlee"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Retro Tech: Teleportation",
+                    "description": "For decades people have dreamed of a technology that would allow them to instantly be somewhere else. I\u2019m taking a deep dive into teleportation tech and the next best thing \u2013 virtual reality with Jake Baldino and Neil DeGrasse Tyson.\n\nWatch Retro Tech free with ads or get YouTube Premium to watch ad-free with exclusive bonus footage. Learn more at: https://support.google.com/youtube/answer/6358146 Check out YouTube Premium at: https://www.youtube.com/premium/originals See if Premium is available in your country at: https://support.google.com/youtube/answer/6307365"
+                },
+                "defaultAudioLanguage": "en",
+                "viewCount": "1430158",
+                "likeCount": "53042",
+                "dislikeCount": "1339",
+                "favoriteCount": "0",
+                "commentCount": "3165",
+                "duration": "PT20M12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "k_vD2S49INE": {
+                "publishedAt": "2021-04-13T13:00:32Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Retro Tech: Wearables",
+                "description": "I\u2019m looking at wearable tech and how it\u2019s developed over the years. I\u2019m talking to Wyatt Cenac about everything from the first ever wearable computer glasses in 1984 to \u201890s cyber-fashion shows to the 21st century\u2019s Google Glass. I\u2019m also joined by both Austin Evans and Michael Gregory to check out old sneaker tech.\n\nWatch Retro Tech free with ads or get YouTube Premium to watch ad-free with exclusive bonus footage. Learn more at: https://support.google.com/youtube/answer/6358146 Check out YouTube Premium at: https://www.youtube.com/premium/originals See if Premium is available in your country at: https://support.google.com/youtube/answer/6307365",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k_vD2S49INE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k_vD2S49INE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k_vD2S49INE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/k_vD2S49INE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/k_vD2S49INE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "Retro tech",
+                    "tech",
+                    "technology",
+                    "smart homes",
+                    "robots",
+                    "science",
+                    "science-fiction",
+                    "hyperconnectivity",
+                    "teleportation",
+                    "flying cars",
+                    "wearable tech",
+                    "marques brownlee"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Retro Tech: Wearables",
+                    "description": "I\u2019m looking at wearable tech and how it\u2019s developed over the years. I\u2019m talking to Wyatt Cenac about everything from the first ever wearable computer glasses in 1984 to \u201890s cyber-fashion shows to the 21st century\u2019s Google Glass. I\u2019m also joined by both Austin Evans and Michael Gregory to check out old sneaker tech.\n\nWatch Retro Tech free with ads or get YouTube Premium to watch ad-free with exclusive bonus footage. Learn more at: https://support.google.com/youtube/answer/6358146 Check out YouTube Premium at: https://www.youtube.com/premium/originals See if Premium is available in your country at: https://support.google.com/youtube/answer/6307365"
+                },
+                "defaultAudioLanguage": "en",
+                "favoriteCount": "0",
+                "commentCount": "1367",
+                "duration": "PT20M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "regionRestriction": {
+                    "blocked": [
+                        "ES",
+                        "JO",
+                        "KR",
+                        "VN",
+                        "ZA"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "ifI_fwg55k8": {
+                "publishedAt": "2021-04-13T13:00:30Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Retro Tech: Flying Cars",
+                "description": "No matter what year, the idea of flying vehicles helps cement our sense of when the future begins. I\u2019m taking a look at everything flying \u2013 from cars to skateboards \u2013 and seeing where the tech currently stands. I also look at some classic old toys with comedian Michael Ian Black.\n\nWatch Retro Tech free with ads or get YouTube Premium to watch ad-free with exclusive bonus footage. Learn more at: https://support.google.com/youtube/answer/6358146 Check out YouTube Premium at: https://www.youtube.com/premium/originals See if Premium is available in your country at: https://support.google.com/youtube/answer/6307365",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ifI_fwg55k8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ifI_fwg55k8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ifI_fwg55k8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ifI_fwg55k8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ifI_fwg55k8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "Retro tech",
+                    "tech",
+                    "technology",
+                    "smart homes",
+                    "robots",
+                    "science",
+                    "science-fiction",
+                    "hyperconnectivity",
+                    "teleportation",
+                    "flying cars",
+                    "wearable tech",
+                    "marques brownlee"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Retro Tech: Flying Cars",
+                    "description": "No matter what year, the idea of flying vehicles helps cement our sense of when the future begins. I\u2019m taking a look at everything flying \u2013 from cars to skateboards \u2013 and seeing where the tech currently stands. I also look at some classic old toys with comedian Michael Ian Black.\n\nWatch Retro Tech free with ads or get YouTube Premium to watch ad-free with exclusive bonus footage. Learn more at: https://support.google.com/youtube/answer/6358146 Check out YouTube Premium at: https://www.youtube.com/premium/originals See if Premium is available in your country at: https://support.google.com/youtube/answer/6307365"
+                },
+                "defaultAudioLanguage": "en",
+                "viewCount": "2150741",
+                "likeCount": "91223",
+                "dislikeCount": "2962",
+                "favoriteCount": "0",
+                "commentCount": "5535",
+                "duration": "PT19M23S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "R5_v0OdFD0A": {
+                "publishedAt": "2021-04-12T13:00:19Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "The World's Largest Smartphone Camera!",
+                "description": "Xiaomi Mi 11 Ultra sets some records, plus a screen on the back for good measure!\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Xiaomi for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R5_v0OdFD0A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R5_v0OdFD0A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R5_v0OdFD0A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/R5_v0OdFD0A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/R5_v0OdFD0A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "Xiaomi",
+                    "Xiaomi Mi 11 Ultra",
+                    "Mi 11 Ultra",
+                    "Mi 11 Ultra review",
+                    "largest smartphone camera",
+                    "smartphone camera",
+                    "camera bump",
+                    "MKBHD",
+                    "Mi 11 Ultra vs",
+                    "vs S21 Ultra",
+                    "vs Samsung",
+                    "Xiaomi vs"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "The World's Largest Smartphone Camera!",
+                    "description": "Xiaomi Mi 11 Ultra sets some records, plus a screen on the back for good measure!\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Xiaomi for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "2876504",
+                "likeCount": "109760",
+                "dislikeCount": "1715",
+                "favoriteCount": "0",
+                "commentCount": "8555",
+                "duration": "PT15M57S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "wUqZQTp_gpI": {
+                "publishedAt": "2021-04-11T22:01:55Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Top 5 Mercedes EQS Features: Electric Luxury!",
+                "description": "This is the perfect type of car to go electric... but I'd still rather be driven in this car than drive it! The 2022 Mercedes EQS\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Equillibre by Hocus Pocus\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wUqZQTp_gpI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wUqZQTp_gpI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wUqZQTp_gpI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wUqZQTp_gpI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wUqZQTp_gpI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "Mercedes EQS",
+                    "electric luxury",
+                    "luxury car",
+                    "Mercedes",
+                    "MKBHD",
+                    "Mercedes-BENZ",
+                    "lucid air",
+                    "Tesla Model S",
+                    "Tesla Model 3",
+                    "Mercedes EQS vs",
+                    "Mercedes EQS specs",
+                    "specs",
+                    "range",
+                    "2022 Mercedes"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Top 5 Mercedes EQS Features: Electric Luxury!",
+                    "description": "This is the perfect type of car to go electric... but I'd still rather be driven in this car than drive it! The 2022 Mercedes EQS\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Equillibre by Hocus Pocus\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "3401802",
+                "likeCount": "127469",
+                "dislikeCount": "2231",
+                "favoriteCount": "0",
+                "commentCount": "14855",
+                "duration": "PT15M37S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "cW1KJf7JKgI": {
+                "publishedAt": "2021-04-08T12:00:35Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "The Ultimate Gaming Phone!",
+                "description": "Plug it in TWICE. The Legion Duel 2 is unapologetically gamer.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds http://smarturl.it/jordynedmonds\u200b\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Lenovo for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cW1KJf7JKgI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cW1KJf7JKgI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cW1KJf7JKgI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cW1KJf7JKgI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cW1KJf7JKgI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "Legion phone",
+                    "Legion duel 2",
+                    "gamer phone",
+                    "gaming phone",
+                    "best gaming phone",
+                    "ultimate gaming phone",
+                    "dual charging",
+                    "MKBHD",
+                    "turbo charging"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "The Ultimate Gaming Phone!",
+                    "description": "Plug it in TWICE. The Legion Duel 2 is unapologetically gamer.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds http://smarturl.it/jordynedmonds\u200b\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Lenovo for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "4006162",
+                "likeCount": "168936",
+                "dislikeCount": "2304",
+                "favoriteCount": "0",
+                "commentCount": "17613",
+                "duration": "PT12M54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "CAmZXCZ-e94": {
+                "publishedAt": "2021-04-06T20:10:32Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Why Did LG Phones Really Die?",
+                "description": "RIP LG Smartphones \ud83e\udea6\n\nMrMobile's video: https://youtu.be/BGfSr74P6D8\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CAmZXCZ-e94/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CAmZXCZ-e94/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CAmZXCZ-e94/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CAmZXCZ-e94/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CAmZXCZ-e94/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "LG phones",
+                    "lg smartphones",
+                    "LG",
+                    "LG Wing",
+                    "LG velvet",
+                    "rollable",
+                    "LG update",
+                    "LG dies",
+                    "RIP LG",
+                    "MKBHD",
+                    "LG exits",
+                    "smartphone business",
+                    "no more LG phones",
+                    "LG phone"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Why Did LG Phones Really Die?",
+                    "description": "RIP LG Smartphones \ud83e\udea6\n\nMrMobile's video: https://youtu.be/BGfSr74P6D8\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "2080107",
+                "likeCount": "110199",
+                "dislikeCount": "1692",
+                "favoriteCount": "0",
+                "commentCount": "13621",
+                "duration": "PT16M45S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "TP4VQTUbypM": {
+                "publishedAt": "2021-04-01T11:47:05Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "The Best Mac I've Ever Reviewed!",
+                "description": "The highest rating I've ever given a product \ud83d\udc36\nhttp://instagram.com/picturesofmac\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Intro by Mr J Medeiros\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TP4VQTUbypM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TP4VQTUbypM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TP4VQTUbypM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TP4VQTUbypM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TP4VQTUbypM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "The Best Mac I've Ever Reviewed!",
+                    "description": "The highest rating I've ever given a product \ud83d\udc36\nhttp://instagram.com/picturesofmac\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Intro by Mr J Medeiros\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "1949651",
+                "likeCount": "223279",
+                "dislikeCount": "6132",
+                "favoriteCount": "0",
+                "commentCount": "18696",
+                "duration": "PT9M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "RY63Nw0w33w": {
+                "publishedAt": "2021-03-24T22:37:02Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "OnePlus 9 Review: Sneaky Value!",
+                "description": "OnePlus 9 is actually sneaky good value right now \ud83d\udc40\nOnePlus 9 Pro Review: https://youtu.be/8eNNJESKjrE\n\nAlso, correction: The rails of the OnePlus 9 are plastic, the back is glass (that feels quite bad). No metal. On S21 the back is plastic, and the rails are metal. No glass.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by OnePlus for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RY63Nw0w33w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RY63Nw0w33w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RY63Nw0w33w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RY63Nw0w33w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RY63Nw0w33w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "OnePlus 9",
+                    "OnePlus",
+                    "MKBHD",
+                    "OnePlus 9 review",
+                    "review",
+                    "OnePlus 9 camera",
+                    "Hasselblad",
+                    "Hasselblad camera"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "OnePlus 9 Review: Sneaky Value!",
+                    "description": "OnePlus 9 is actually sneaky good value right now \ud83d\udc40\nOnePlus 9 Pro Review: https://youtu.be/8eNNJESKjrE\n\nAlso, correction: The rails of the OnePlus 9 are plastic, the back is glass (that feels quite bad). No metal. On S21 the back is plastic, and the rails are metal. No glass.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by OnePlus for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "1845878",
+                "likeCount": "74898",
+                "dislikeCount": "1218",
+                "favoriteCount": "0",
+                "commentCount": "5201",
+                "duration": "PT11M13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "8eNNJESKjrE": {
+                "publishedAt": "2021-03-23T15:01:27Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "OnePlus 9 Pro Review: A Huge Hasselblad Promise!",
+                "description": "OnePlus 9 Pro talks a BIG game with their Hasselblad collab. Does it live up?\nThe first 1000 people to use this link will get a free trial of Skillshare Premium Membership to access my class (and more):\u00a0https://skl.sh/marquesbrownlee03211\n\nOnePlus 9 Review: https://youtu.be/RY63Nw0w33w\n\nOnePlus 9 Pro skins: http://dbrand.com/robot-camo\n\n0:00 Intro/Price\n1:26 Unboxing\n2:04 Design\n4:04 The OnePlus special\n5:40 Specs/Performance\n7:16 Battery Life & Charging\n9:53 The Hasselblad Cameras\n17:38 Bonus stuff\n18:14 Final Rating\n18:56 My First Skillshare Class!\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by OnePlus for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8eNNJESKjrE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8eNNJESKjrE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8eNNJESKjrE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8eNNJESKjrE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8eNNJESKjrE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "OnePlus",
+                    "OnePlus 9",
+                    "OnePlus 9 Pro",
+                    "OnePlus 9 Pro review",
+                    "MKBHD",
+                    "Hasselblad",
+                    "OnePlus 9 Pro camera",
+                    "price"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "OnePlus 9 Pro Review: A Huge Hasselblad Promise!",
+                    "description": "OnePlus 9 Pro talks a BIG game with their Hasselblad collab. Does it live up?\nThe first 1000 people to use this link will get a free trial of Skillshare Premium Membership to access my class (and more):\u00a0https://skl.sh/marquesbrownlee03211\n\nOnePlus 9 Review: https://youtu.be/RY63Nw0w33w\n\nOnePlus 9 Pro skins: http://dbrand.com/robot-camo\n\n0:00 Intro/Price\n1:26 Unboxing\n2:04 Design\n4:04 The OnePlus special\n5:40 Specs/Performance\n7:16 Battery Life & Charging\n9:53 The Hasselblad Cameras\n17:38 Bonus stuff\n18:14 Final Rating\n18:56 My First Skillshare Class!\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by OnePlus for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "3554761",
+                "likeCount": "130891",
+                "dislikeCount": "2629",
+                "favoriteCount": "0",
+                "commentCount": "10818",
+                "duration": "PT20M46S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "fYAUINqHAY4": {
+                "publishedAt": "2021-03-19T00:05:40Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Huawei Mate X2 Impressions: I Was Right!",
+                "description": "The wedge-shaped folding phone \ud83d\udc40 Better than the Z Fold 2?\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds http://smarturl.it/jordynedmonds\u200b \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fYAUINqHAY4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fYAUINqHAY4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fYAUINqHAY4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fYAUINqHAY4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fYAUINqHAY4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "HUAWEI Mate X2",
+                    "Huawei",
+                    "folding phone",
+                    "MKBHD",
+                    "wedge shape",
+                    "unboxing",
+                    "impressions",
+                    "review",
+                    "folding",
+                    "foldable",
+                    "foldable phone"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Huawei Mate X2 Impressions: I Was Right!",
+                    "description": "The wedge-shaped folding phone \ud83d\udc40 Better than the Z Fold 2?\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds http://smarturl.it/jordynedmonds\u200b \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "2521457",
+                "likeCount": "117134",
+                "dislikeCount": "2353",
+                "favoriteCount": "0",
+                "commentCount": "7596",
+                "duration": "PT9M13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "syiQmaGZFXM": {
+                "publishedAt": "2021-03-17T01:23:57Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Dope Tech: The Fastest Drone AND Car Yet!",
+                "description": "The 87mph drone, the 211mph electric supercar and beyond!\n\nDJI FPV: https://www.dji.com/dji-fpv\nRimac Concept One: https://manhattanmotorcars.com/inventory/new-2019-rimac-concept-one-coupe-v39110ll7k2ab8009/\nInsta 360 GO2: https://amzn.to/3tkQSrU\nhttps://www.insta360.com/product/insta360-go2/\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/syiQmaGZFXM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/syiQmaGZFXM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/syiQmaGZFXM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/syiQmaGZFXM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/syiQmaGZFXM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "DJI FPV",
+                    "DJI FPV drone",
+                    "FPV drone",
+                    "Rimac Concept One",
+                    "Insta360",
+                    "Insta360 Go2",
+                    "MKBHD",
+                    "Dope Tech"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Dope Tech: The Fastest Drone AND Car Yet!",
+                    "description": "The 87mph drone, the 211mph electric supercar and beyond!\n\nDJI FPV: https://www.dji.com/dji-fpv\nRimac Concept One: https://manhattanmotorcars.com/inventory/new-2019-rimac-concept-one-coupe-v39110ll7k2ab8009/\nInsta 360 GO2: https://amzn.to/3tkQSrU\nhttps://www.insta360.com/product/insta360-go2/\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "2336837",
+                "likeCount": "111573",
+                "dislikeCount": "1954",
+                "favoriteCount": "0",
+                "commentCount": "6235",
+                "duration": "PT18M34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "1jmcloqc4yg": {
+                "publishedAt": "2021-03-13T02:09:21Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "The Smartphone With a Microscope Camera?!",
+                "description": "The Billion Color smartphone with a microscope camera. Gimmick or feature?\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Oppo for video.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1jmcloqc4yg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1jmcloqc4yg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1jmcloqc4yg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1jmcloqc4yg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1jmcloqc4yg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "smartphone microscope",
+                    "microscope camera",
+                    "smartphone microscope camera",
+                    "Oppo Find X3 Pro",
+                    "Oppo Find X3",
+                    "Find X3 Pro",
+                    "microscope phone"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "The Smartphone With a Microscope Camera?!",
+                    "description": "The Billion Color smartphone with a microscope camera. Gimmick or feature?\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Oppo for video.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "3185224",
+                "likeCount": "121419",
+                "dislikeCount": "1781",
+                "favoriteCount": "0",
+                "commentCount": "7993",
+                "duration": "PT13M2S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "6pf2KJD5qf0": {
+                "publishedAt": "2021-03-10T12:07:27Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "ROG Phone 5 Ultimate Review: The Most Ridiculous Custom!",
+                "description": "ROG Phone 5 Ultimate Edition is ridiculous and unnecessary and very fun.\nWallpaper: https://gumroad.com/l/KXeTa\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Choo Choo by Alltta\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Asus for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6pf2KJD5qf0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6pf2KJD5qf0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6pf2KJD5qf0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6pf2KJD5qf0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6pf2KJD5qf0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "ROG phone",
+                    "ROG phone 5",
+                    "Asus",
+                    "Asus ROG",
+                    "Asus ROG phone 5",
+                    "ROG Phone 5 review",
+                    "MKBHD"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "ROG Phone 5 Ultimate Review: The Most Ridiculous Custom!",
+                    "description": "ROG Phone 5 Ultimate Edition is ridiculous and unnecessary and very fun.\nWallpaper: https://gumroad.com/l/KXeTa\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Choo Choo by Alltta\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Asus for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "2378966",
+                "likeCount": "110482",
+                "dislikeCount": "1554",
+                "favoriteCount": "0",
+                "commentCount": "8420",
+                "duration": "PT15M23S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "V7J9aMy_CFk": {
+                "publishedAt": "2021-03-05T18:54:05Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "What I REALLY Think of the iPhone!",
+                "description": "Thoughts on a few months/years with the latest iPhone\n\nSponsor: Go to\u00a0https://www.expressvpn.com/mkbhd to get 3 months free\n\nLINKS\niPhone 12 Review: https://youtu.be/X1b3C2081-Q\niPhone 12 Pro Review: https://youtu.be/eWI_BtcDJu0\niPhone 12 Mini Review: https://youtu.be/Yhze-aRR6o0\niPhone 12 Pro Max Review: https://youtu.be/qrzCLgDplTw\nOn an iPhone with No Ports: https://youtu.be/Qfmeb2e_kb4\nJerryRigEverything Durability test: https://youtu.be/LP6ppSM3xq4\nGalaxy S21 is the only Android that doesn't suck at Snapchat: https://www.androidpolice.com/2021/02/22/the-galaxy-s21-is-the-only-android-phone-that-doesnt-suck-at-snapchat/\nBelkin Magsafe car mount: https://www.belkin.com/us/p/P-WIC002/\nMOMENT Car Vent Mount w/ MagSafe: https://www.shopmoment.com/products/car-vent-mount-for-magsafe\niOS 14's New Features: https://youtu.be/ZLyDvABxGF0\niOS 14 Widgets/Homescreen: https://youtu.be/cH66LWWluVE\nWidgets poll: https://twitter.com/MKBHD/status/1364940776107438080\nThe Apple Ecosystem: Explained! https://youtu.be/KB4_WIPE7vo\n5G Explained: https://youtu.be/_CTUs_2hq6Y\niPhone \"Gates\" Explained: https://youtu.be/ndphYju6PVM\n\n0:00 Intro\n3:57 Design\n10:48 The Screen\n18:07 Cameras\n26:43 MagSafe\n30:02 Battery\n32:09 The iPhone\n37:03 5G JUST Got Real?\n40:36 GATES\n45:28 Conclusion\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V7J9aMy_CFk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V7J9aMy_CFk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V7J9aMy_CFk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/V7J9aMy_CFk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/V7J9aMy_CFk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "iPhone 12 review",
+                    "iPhone review",
+                    "MKBHD",
+                    "iPhone 12 Pro",
+                    "iPhone 13",
+                    "the iPhone"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "What I REALLY Think of the iPhone!",
+                    "description": "Thoughts on a few months/years with the latest iPhone\n\nSponsor: Go to\u00a0https://www.expressvpn.com/mkbhd to get 3 months free\n\nLINKS\niPhone 12 Review: https://youtu.be/X1b3C2081-Q\niPhone 12 Pro Review: https://youtu.be/eWI_BtcDJu0\niPhone 12 Mini Review: https://youtu.be/Yhze-aRR6o0\niPhone 12 Pro Max Review: https://youtu.be/qrzCLgDplTw\nOn an iPhone with No Ports: https://youtu.be/Qfmeb2e_kb4\nJerryRigEverything Durability test: https://youtu.be/LP6ppSM3xq4\nGalaxy S21 is the only Android that doesn't suck at Snapchat: https://www.androidpolice.com/2021/02/22/the-galaxy-s21-is-the-only-android-phone-that-doesnt-suck-at-snapchat/\nBelkin Magsafe car mount: https://www.belkin.com/us/p/P-WIC002/\nMOMENT Car Vent Mount w/ MagSafe: https://www.shopmoment.com/products/car-vent-mount-for-magsafe\niOS 14's New Features: https://youtu.be/ZLyDvABxGF0\niOS 14 Widgets/Homescreen: https://youtu.be/cH66LWWluVE\nWidgets poll: https://twitter.com/MKBHD/status/1364940776107438080\nThe Apple Ecosystem: Explained! https://youtu.be/KB4_WIPE7vo\n5G Explained: https://youtu.be/_CTUs_2hq6Y\niPhone \"Gates\" Explained: https://youtu.be/ndphYju6PVM\n\n0:00 Intro\n3:57 Design\n10:48 The Screen\n18:07 Cameras\n26:43 MagSafe\n30:02 Battery\n32:09 The iPhone\n37:03 5G JUST Got Real?\n40:36 GATES\n45:28 Conclusion\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "6565866",
+                "likeCount": "257283",
+                "dislikeCount": "5707",
+                "favoriteCount": "0",
+                "commentCount": "22857",
+                "duration": "PT47M58S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "di1afyrEKoc": {
+                "publishedAt": "2021-02-27T00:19:54Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "iPhone 13 \"Confirmed\"?! NOPE",
+                "description": "A rant and a Q&A!\n\nTwitter: http://twitter.com/MKBHD\nDaft Punk Epilogue: https://youtu.be/DuDX6wNfjqc\nEverythingApplePro video: https://youtu.be/FqOujNnuHBg\nMechanical keyboard video: https://youtu.be/5FynctdZqZw\nNASA video: https://youtu.be/4czjS9h4Fpg\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/di1afyrEKoc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/di1afyrEKoc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/di1afyrEKoc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/di1afyrEKoc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/di1afyrEKoc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "iPhone 13 \"Confirmed\"?! NOPE",
+                    "description": "A rant and a Q&A!\n\nTwitter: http://twitter.com/MKBHD\nDaft Punk Epilogue: https://youtu.be/DuDX6wNfjqc\nEverythingApplePro video: https://youtu.be/FqOujNnuHBg\nMechanical keyboard video: https://youtu.be/5FynctdZqZw\nNASA video: https://youtu.be/4czjS9h4Fpg\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "2528572",
+                "likeCount": "115595",
+                "dislikeCount": "2546",
+                "favoriteCount": "0",
+                "commentCount": "6714",
+                "duration": "PT13M10S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "qVMdq9pDiuQ": {
+                "publishedAt": "2021-02-16T04:04:06Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Dogecoin: Explained",
+                "description": "Dogecoin might not be so bad after all.\n\nGraham Stephan on Dogecoin: https://youtu.be/xmKbgNhDVJc\n\nDisclosure: I don't hold any dogecoin. I do hold some bitcoin though. For research purposes.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds http://smarturl.it/jordynedmonds\u200b \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qVMdq9pDiuQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qVMdq9pDiuQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qVMdq9pDiuQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qVMdq9pDiuQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qVMdq9pDiuQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "Bitcoin",
+                    "Dogecoin",
+                    "what is dogecoin",
+                    "what is bitcoin",
+                    "crypto",
+                    "cryptocurrency",
+                    "Elon Musk",
+                    "MKBHD",
+                    "tweets",
+                    "dogecoin meme",
+                    "doge meme",
+                    "dogecoin tweets",
+                    "dogecoin price",
+                    "dollar",
+                    "to the moon"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Dogecoin: Explained",
+                    "description": "Dogecoin might not be so bad after all.\n\nGraham Stephan on Dogecoin: https://youtu.be/xmKbgNhDVJc\n\nDisclosure: I don't hold any dogecoin. I do hold some bitcoin though. For research purposes.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds http://smarturl.it/jordynedmonds\u200b \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en-US",
+                "viewCount": "3275108",
+                "likeCount": "142786",
+                "dislikeCount": "3715",
+                "favoriteCount": "0",
+                "commentCount": "16637",
+                "duration": "PT10M45S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            }
+        }
+    }
+}
